@@ -1,0 +1,24 @@
+{
+"product":[
+{"id":1,"name":"Grizzly bear","category":"Maroon"},
+{"id":2,"name":"Parrot, hawk-headed","category":"Blue"},
+{"id":3,"name":"Goose, greylag","category":"Mauv"},
+{"id":4,"name":"Galapagos hawk","category":"Mauv"},
+{"id":5,"name":"Little heron","category":"Orange"},
+{"id":6,"name":"Chestnut weaver","category":"Goldenrod"},
+{"id":7,"name":"Whale, baleen","category":"Red"},
+{"id":8,"name":"Stork, white","category":"Maroon"},
+{"id":9,"name":"Pigeon, wood","category":"Indigo"},
+{"id":10,"name":"Deer, spotted","category":"Red"},
+{"id":11,"name":"Hyrax","category":"Goldenrod"},
+{"id":12,"name":"Comb duck","category":"Teal"},
+{"id":13,"name":"Blue peacock","category":"Maroon"},
+{"id":14,"name":"Gorilla, western lowland","category":"Fuscia"},
+{"id":15,"name":"Crested barbet","category":"Indigo"},
+{"id":16,"name":"Bleu, blue-breasted cordon","category":"Mauv"},
+{"id":17,"name":"Mara","category":"Orange"},
+{"id":18,"name":"Bobcat","category":"Goldenrod"},
+{"id":19,"name":"Gray heron","category":"Violet"},
+{"id":20,"name":"Spotted hyena","category":"Fuscia"}
+]
+}
